@@ -30,6 +30,8 @@ public class TrabajoPracticoDeGit {
         System.out.println("Modelo de RelojFit: " + relojFit.getModelo());
         relojFit.limpiarPantalla();
         unaPersona.decirHora(relojFit);
+        
+        
     }
 }
 
