@@ -6,10 +6,6 @@ Desde la java main class, llamar a los metodos de unReloj, accediendo desde obje
  */
 package com.mycompany.trabajopracticodegit;
 
-/**
- *
- * @author Santi
- */
 public class Reloj {
 
     private int dia;
